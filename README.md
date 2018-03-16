@@ -14,3 +14,5 @@ user is asked what to deliver and then is asked where to deliver and gives us co
 then, open turtle window and move up right and then see the word pizza there and then goes back home (0,0)
 ^this will be repeated for the next delivery, depending on the location
 
+
+For my project, I am using pygame to navigate my drone using the coordinates inputed by the user to go to the correct destination. 
